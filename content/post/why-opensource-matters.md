@@ -1,6 +1,6 @@
 ---
 title: We need to start actively promoting open source
-date: 2018-01-23
+date: 2018-01-23 00:00:00 +0000
 categories:
 - Personal
 tags:
@@ -10,12 +10,12 @@ keywords:
 - google
 - gravatar
 autoThumbnailImage: false
-thumbnailImagePosition: "left"
-thumbnailImage: /img/github.jpeg
-coverImage: /img/ossdd.png
+thumbnailImagePosition: left
+thumbnailImage: "/img/github.jpeg"
+coverImage: "/img/ossdd.png"
 metaAlignment: left
----
 
+---
 Recently, in my IT Security Class, the topic of open source software has come up multiple times. To my disappointment I find that many are confused about what open source software (OSS) is and why it's important.
 <!--more-->
 
