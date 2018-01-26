@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/x0ex
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://x0ex.com
+  * I am x0ex (https://keybase.io/x0ex) on keybase.
+  * I have a public key with fingerprint 9BB9 0839 8F5F E2AE 4A35  4845 17D5 2204 35B1 C7B4
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010175f20803e8580dbf2d7ae57886ac8c692727dfbf1828a3746f4fe602114fa5a20a",
+      "fingerprint": "9bb908398f5fe2ae4a35484517d5220435b1c7b4",
+      "host": "keybase.io",
+      "key_id": "17d5220435b1c7b4",
+      "kid": "010175f20803e8580dbf2d7ae57886ac8c692727dfbf1828a3746f4fe602114fa5a20a",
+      "uid": "a99d0982a9fd718b6ea1b8b03c7c5519",
+      "username": "x0ex"
+    },
+    "service": {
+      "hostname": "x0ex.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1516123968,
+  "expire_in": 157680000,
+  "prev": "ca1311a3e859ce16a1540175ab70ba82b31b83bdfbfd2e5e55d911810dc72847",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIjAnicrVJbSBRRGN7NzDQ2jR66B41milvNmZkz58xWEkkUFmVSSha7nTNzRgd1
+Z9tdL6XSDXqI0tjCSMLAQoqQQCrpYjckJOkivhQVQZgSYQZpZHY7IwU99Nh5OZz/
+fN/3f//H3+WJcyW5LxbW5F4KHVvi7rnXUOEq8qPVNQK1jT2Cr0YoZRMXKzNYJBoo
+tQzBJ4hABAiakohFmWGIRYOakoEIgwhjlehYVzUJScgwqQmwhImMFNVUTKaKEgCK
+SSCRRCJ4BdMKFrNwKGwFo1xWo1QTsaxhE5pMIkwhMlSwAgEyoCSJigwp0BFVOLHE
+jjgMbo6SCFtm2bzGH4EJe//A/2ffFRNyRNMMUcMS0UwDAUxVRgDFVJR1pEMINAcY
+YeEgKWccXS2yaqHOK/BKpaUzJ1Rnir9+l+l2OeeEwnbU1u0yXi2JRkMRn8OK7gk5
+sCpGA78FAtQKGjw/zqhk4YhlBwUf4Eg9ajmKAAIVSLKmYq/AqkNWmAUsBwGRikV+
+nD6skkvqBMgAECcQTWdAJQAqTkyEIpESLFGZDyVTJxNDYpBBaGgAYCAaOpKwggRn
+pN1BW/AhbpMUc8mIVRwk0YowE+ru39052eVOck2Jn+TslSspMeXPtjW4En5kHknq
+nu/+MjfDn+VdXBGf/vn1wczmEaNlb77H3CYd3JjYBpf3943fud23v7CgZtaFnO6q
+RTtOXs5eWtvUt/VoYW3zQP3+vFXf82KdsbHedx0Pjr/fYK2Y9nOGv2/cDXy1GXdO
+u3zZcQmzJ50QPs2rPrQga01T+svz9GNyb0l2y+DosOfp13h0wvd25uHa4bVXc1X3
+vlhLe+RVcf2bOQsbl567ZnamnAyO51d+S11+U+1f9Lzt+hjIunYsrb2oe2hkMDB9
+S25qXVcrcqWdKRh6cevhk9yGxnWt/uSeqZ09zJNzI2d8oGz6Sro9RT51pSCWtulA
+U1HeyObHo4/O7lr/4Sp+1vEL1CA11A==
+=2pdX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/x0ex
+
+==================================================================

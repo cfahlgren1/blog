@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on X0eX Blog</title>
+    <link>https://x0ex.com/tags/</link>
+    <description>Recent content in Tags on X0eX Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://x0ex.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploits</title>
+      <link>https://x0ex.com/tags/exploits/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://x0ex.com/tags/exploits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Idea</title>
+      <link>https://x0ex.com/tags/idea/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://x0ex.com/tags/idea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ios</title>
+      <link>https://x0ex.com/tags/ios/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://x0ex.com/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mac</title>
+      <link>https://x0ex.com/tags/mac/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://x0ex.com/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networking</title>
+      <link>https://x0ex.com/tags/networking/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://x0ex.com/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://x0ex.com/tags/open-source/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://x0ex.com/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patches</title>
+      <link>https://x0ex.com/tags/patches/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://x0ex.com/tags/patches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vulnerabilities</title>
+      <link>https://x0ex.com/tags/vulnerabilities/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://x0ex.com/tags/vulnerabilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wifi</title>
+      <link>https://x0ex.com/tags/wifi/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://x0ex.com/tags/wifi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
