@@ -32,7 +32,7 @@ WPA and WPA2 were encryption standards that replaced the insecure WEP protocol.
 * Temporal Key Integrity Protocol (TKIP)
 * Cryptographic Checksum
 
-WPA2 further enhanced the WPA protocol by adding the Cipher Block Chaining Message Protocol that is based on the Advanced Encryption Standard (AES) for encryption. CCMP was seen to be much more secure than TKIP, but also required the replacement of many Acess Points(AP).
+WPA2 further enhanced the WPA protocol by adding the Cipher Block Chaining Message Protocol that is based on the Advanced Encryption Standard (AES) for encryption. CCMP was seen to be much more secure than TKIP, but also required the replacement of many Access Points(AP).
 
 However, WPA2 has fallen short due to the unencrypted "open" Wi-Fi networks. With WPA2, an attack can sit on the network and sniff passwords and other data if the client isn't using a Virtual Private Network (VPN).
 
