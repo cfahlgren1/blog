@@ -16,6 +16,7 @@ thumbnailImagePosition: left
 thumbnailImage: "/img/wifi-signal.jpg"
 coverImage: "/img/wpa3_image.jpg"
 metaAlignment: left
+draft: true
 
 ---
 On January 8th, the Wifi-Alliance introduced new security improvements and standards for the Wi-Fi Protected Access (WPA3).
