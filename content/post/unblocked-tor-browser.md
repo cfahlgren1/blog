@@ -1,11 +1,22 @@
 +++
-categories = ["category", "subcategory"]
+autoThumbnailImage = false
+categories = ["privacy "]
+coverImage = ""
 date = "2018-01-30T10:40:27+00:00"
 draft = true
 keywords = ["tech"]
-tags = ["tag1", "tag2"]
-title = "Unblocked Tor Browser"
+metaAlignment = ""
+tags = ["privacy", "tor-browser"]
+thumbnailImage = "/uploads/2018/01/30/torlogo-1.png"
+thumbnailImagePosition = ""
+title = "Alternate Tor Browser Link"
+type = ""
 
 +++
+Use the link in this post to get Tor if the official Tor Browser is blocked.
 
 <!--more-->
+
+[Tor Browser](https://wpapper.github.io/tor-download-web/)
+
+Only use this link if the official Tor website is blocked and make sure to update Tor when you finish installing it.
