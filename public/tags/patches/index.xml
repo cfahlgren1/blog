@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patches on X0eX Blog</title>
+    <link>https://x0ex.com/tags/patches/</link>
+    <description>Recent content in Patches on X0eX Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://x0ex.com/tags/patches/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>India ID Verification Company is running insecure code in Android application</title>
+      <link>https://x0ex.com/2018/01/india-id-verification-company-is-running-insecure-code-in-android-application/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://x0ex.com/2018/01/india-id-verification-company-is-running-insecure-code-in-android-application/</guid>
+      <description>&lt;p&gt;On Twitter, a security researcher who goes by the name &lt;a href=&#34;https://twitter.com/fs0c131y&#34;&gt;Elliot Anderson&lt;/a&gt; revealed that Aadhaar was using insecure code and the company was saving personal user details including pictures in a local database with a hard coded password.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Qubes OS is offering additional protection for its systems from Meltdown through &#34;fully virtualized&#34; VMs</title>
+      <link>https://x0ex.com/2018/01/qubes-os-is-offering-additional-protection-for-its-systems-from-meltdown-through-fully-virtualized-vms/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://x0ex.com/2018/01/qubes-os-is-offering-additional-protection-for-its-systems-from-meltdown-through-fully-virtualized-vms/</guid>
+      <description>&lt;p&gt;The Qubes OS &lt;a href=&#34;https://github.com/QubesOS/qubes-secpack/blob/master/QSBs/qsb-037-2018.txt#L32&#34;&gt;new security pack&lt;/a&gt; mentions that &amp;ldquo;fully virtualized&amp;rdquo; VMs provide significant security for Meltdown attacks.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
