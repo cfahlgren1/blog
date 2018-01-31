@@ -3,6 +3,7 @@ autoThumbnailImage = false
 categories = ["privacy "]
 coverImage = ""
 date = "2018-01-30T10:40:27+00:00"
+draft = true
 keywords = ["tech"]
 metaAlignment = ""
 tags = ["privacy", "tor-browser"]
