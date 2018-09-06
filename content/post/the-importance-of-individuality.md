@@ -1,10 +1,16 @@
 +++
-categories = ["category", "subcategory"]
+autoThumbnailImage = true
+categories = ["foodforthought"]
+coverImage = ""
 date = "2018-09-06T14:09:46-04:00"
 draft = true
-keywords = ["tech"]
-tags = ["tag1", "tag2"]
+keywords = []
+metaAlignment = ""
+tags = []
+thumbnailImage = ""
+thumbnailImagePosition = ""
 title = "The importance of individuality"
+type = ""
 
 +++
 
