@@ -1,4 +1,5 @@
 ---
+label: post
 hide_body: false
 is_partial: false
 fields:
@@ -62,3 +63,14 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- content/post/the-importance-of-individuality.md
+- content/post/why-opensource-matters.md
+- content/post/toadproject.md
+- content/post/qubes-os-security-pac-for-meltdown.md
+- content/post/meltdown-and-spectre-two-cpu-flaws-that-affects-every-processor-from-1995-forward.md
+- content/post/mac-os-0-day-kernel-exploit-revealed.md
+- content/post/aadhaar-insecure.md
+- content/post/handy-password-vulnerability.md
+- content/post/bitcoin.md
+- content/post/wifi-alliance-unveils-wpa3-protocol-supports-new-security-enhancements.md
