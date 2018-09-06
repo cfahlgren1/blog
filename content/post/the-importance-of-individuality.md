@@ -9,7 +9,7 @@ metaAlignment = ""
 tags = []
 thumbnailImage = ""
 thumbnailImagePosition = ""
-title = "Top things I learned from high school"
+title = "List for living a \"no regrets\" life"
 type = ""
 
 +++
@@ -25,3 +25,4 @@ Here is a small list of important things I learned as I left high school and ent
 6. **Don't spend all your time in school!** (balance your life and do things you enjoy while also making life long friends)
 7. **Know your own self worth!** (it doesn't matter what other people think. live is supposed to be fun, not full of thinking what others might think of you)
 8. **Don't hold grudges!** (life is too short for that and it only fosters negativity)
+9. **Don't have any regrets!** (everything can be a life lesson to learn from)
